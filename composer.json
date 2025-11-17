@@ -1,5 +1,5 @@
 {
-    "name": "hryvinskyi/composer-quality-patches",
+    "name": "hryvinskyi/magento2-composer-quality-patches",
     "description": "Composer plugin for automatic Magento quality patches installation",
     "type": "composer-plugin",
     "license": "MIT",
